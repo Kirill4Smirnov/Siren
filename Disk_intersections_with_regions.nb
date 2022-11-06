@@ -10,17 +10,26 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[       755,         33]
-NotebookOptionsPosition[       561,         21]
-NotebookOutlinePosition[       895,         36]
-CellTagsIndexPosition[       852,         33]
+NotebookDataLength[      1209,         43]
+NotebookOptionsPosition[       894,         29]
+NotebookOutlinePosition[      1258,         45]
+CellTagsIndexPosition[      1215,         42]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"R1", " ", "=", " ", "1"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"R2", " ", "=", " ", "0.5"}], 
+  ";"}], "\[IndentingNewLine]"}], "Input",
+ CellChangeTimes->{{3.875074250561058*^9, 3.875074275129261*^9}},
+ CellLabel->"In[14]:=",ExpressionUUID->"1c9ea6cd-b7bb-4835-94af-6c406353906c"]
 },
 WindowSize->{1920, 1011},
 WindowMargins->{{0, Automatic}, {0, Automatic}},
+Magnification:>1.3 Inherited,
 FrontEndVersion->"12.0 for Linux x86 (64-bit) (April 8, 2019)",
 StyleDefinitions->"Default.nb"
 ]
@@ -35,9 +44,8 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
+Cell[558, 20, 332, 7, 156, "Input",ExpressionUUID->"1c9ea6cd-b7bb-4835-94af-6c406353906c"]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
