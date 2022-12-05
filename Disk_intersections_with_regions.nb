@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     33686,        727]
-NotebookOptionsPosition[     31965,        690]
-NotebookOutlinePosition[     32329,        706]
-CellTagsIndexPosition[     32286,        703]
+NotebookDataLength[     33687,        727]
+NotebookOptionsPosition[     31966,        690]
+NotebookOutlinePosition[     32330,        706]
+CellTagsIndexPosition[     32287,        703]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -170,7 +170,7 @@ Cell[BoxData[
        Hold[$CellContext`x2$$], 0}, -5, 5}, {{
        Hold[$CellContext`y1$$], 0}, -5, 5}, {{
        Hold[$CellContext`y2$$], 0}, -5, 5}}, Typeset`size$$ = {
-    379., {120., 129.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    859., {120., 129.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
     Typeset`skipInitDone$$ = True, $CellContext`r1$4012$$ = 
     0, $CellContext`r2$4013$$ = 0, $CellContext`x1$4014$$ = 
     0, $CellContext`x2$4015$$ = 0, $CellContext`y1$4016$$ = 
@@ -203,7 +203,7 @@ $CellContext`y2$$}]},
          5}, {{$CellContext`x2$$, 0}, -5, 5}, {{$CellContext`y1$$, 0}, -5, 
          5}, {{$CellContext`y2$$, 0}, -5, 5}}, "Options" :> {}, 
       "DefaultOptions" :> {}],
-     ImageSizeCache->{440., {240., 249.}},
+     ImageSizeCache->{920., {240., 249.}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -319,8 +319,8 @@ Cell[BoxData[
     True, Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
     Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
     "\"untitled\"", Typeset`specs$$ = {{
-      Hold[$CellContext`x$$], -100, 100}}, Typeset`size$$ = {84., {0., 13.}}, 
-    Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = 
+      Hold[$CellContext`x$$], -100, 100}}, Typeset`size$$ = {412., {5., 15.}},
+     Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = 
     True, $CellContext`x$1992490$$ = 0}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, "Variables" :> {$CellContext`x$$ = -100}, 
@@ -334,7 +334,7 @@ Cell[BoxData[
       "Body" :> $CellContext`RowCircInter[{2, $CellContext`x$$, 0.5}, {2, 5}],
        "Specifications" :> {{$CellContext`x$$, -100, 100}}, "Options" :> {}, 
       "DefaultOptions" :> {}],
-     ImageSizeCache->{345., {67., 76.}},
+     ImageSizeCache->{473., {67., 76.}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -717,18 +717,18 @@ Cell[5260, 157, 3451, 64, 515, "Output",ExpressionUUID->"239f8ef3-95b5-4905-9a6a
 Cell[8726, 224, 2944, 67, 243, "Input",ExpressionUUID->"6192c88c-2511-4e30-becb-fbf5dd86f629"],
 Cell[CellGroupData[{
 Cell[11695, 295, 825, 17, 44, "Input",ExpressionUUID->"d75f9e11-edf3-4532-87fb-dcfb90620750"],
-Cell[12523, 314, 2272, 42, 169, "Output",ExpressionUUID->"a548ef87-9354-426e-8355-710d61a6824a"]
+Cell[12523, 314, 2273, 42, 169, "Output",ExpressionUUID->"a548ef87-9354-426e-8355-710d61a6824a"]
 }, Open  ]],
-Cell[14810, 359, 129, 3, 44, "Input",ExpressionUUID->"323b1b3e-0d77-47c4-bbf3-53f5d5d9502f"],
+Cell[14811, 359, 129, 3, 44, "Input",ExpressionUUID->"323b1b3e-0d77-47c4-bbf3-53f5d5d9502f"],
 Cell[CellGroupData[{
-Cell[14964, 366, 772, 17, 44, "Input",ExpressionUUID->"c0f024fe-890a-4468-972a-830d1a88ba68"],
-Cell[15739, 385, 15108, 271, 373, "Output",ExpressionUUID->"ce2d1516-9bde-46ff-8862-f3bc9cb3044d"]
+Cell[14965, 366, 772, 17, 44, "Input",ExpressionUUID->"c0f024fe-890a-4468-972a-830d1a88ba68"],
+Cell[15740, 385, 15108, 271, 340, "Output",ExpressionUUID->"ce2d1516-9bde-46ff-8862-f3bc9cb3044d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[30884, 661, 748, 17, 78, "Input",ExpressionUUID->"f869fb84-c7e8-4348-a297-32485fbfc0f3"],
-Cell[31635, 680, 182, 2, 50, "Output",ExpressionUUID->"6151a449-9f02-4fd9-8d97-b184e3234bc8"]
+Cell[30885, 661, 748, 17, 78, "Input",ExpressionUUID->"f869fb84-c7e8-4348-a297-32485fbfc0f3"],
+Cell[31636, 680, 182, 2, 50, "Output",ExpressionUUID->"6151a449-9f02-4fd9-8d97-b184e3234bc8"]
 }, Open  ]],
-Cell[31832, 685, 129, 3, 44, "Input",ExpressionUUID->"9665bbe5-404b-4409-8292-7ddd16623d9a"]
+Cell[31833, 685, 129, 3, 44, "Input",ExpressionUUID->"9665bbe5-404b-4409-8292-7ddd16623d9a"]
 }
 ]
 *)
